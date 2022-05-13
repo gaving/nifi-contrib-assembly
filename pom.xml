@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
   <description>Provides a bundle for all of the NiFi optional NARs</description>
   <properties>
-    <nifi.version>1.12.1</nifi.version>
+    <nifi.version>1.15.3</nifi.version>
   </properties>
   <dependencies>
     <dependency>
